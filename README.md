@@ -1,6 +1,6 @@
-# 🚀JobList-Fetcher
+# 🚀Berojgar
 
-JobLister is a simple web app for job listings that allows users to explore and search for jobs in India. It leverages the Adzuna API to fetch job data and is built using Node.js, Express.js, and Handlebars.
+Berojgar is a simple web app for job listings that allows users to explore and search for jobs in India. It leverages the Adzuna API to fetch job data and is built using Node.js, Express.js, and Handlebars.
 
 ## Features
 
@@ -19,8 +19,8 @@ JobLister is a simple web app for job listings that allows users to explore and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mr-JackSparrow/JobList-Fetcher.git
-   cd JobList-Fetcher
+   git clone https://github.com/Mr-JackSparrow/Berojgar.git
+   cd Berojgar
    ```
 2. Install dependencies:
 
